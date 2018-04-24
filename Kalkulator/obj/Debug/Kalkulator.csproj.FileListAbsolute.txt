@@ -1,0 +1,30 @@
+c:\users\pazera tomasz\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+c:\users\pazera tomasz\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+c:\users\pazera tomasz\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+c:\users\pazera tomasz\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+c:\users\pazera tomasz\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+c:\users\pazera tomasz\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+c:\users\pazera tomasz\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+c:\users\pazera tomasz\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+c:\users\pazera tomasz\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
+E:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+E:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+E:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+I:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+I:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+I:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+I:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+I:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
+I:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+I:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+I:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+I:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+G:\Pazera Tomasz 3ib2 - Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+G:\Pazera Tomasz 3ib2 - Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+G:\Pazera Tomasz 3ib2 - Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
